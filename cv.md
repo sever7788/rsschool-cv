@@ -1,5 +1,5 @@
 # Ivan Seviarynets
-## mail: severinec7788@mail.ru, tel: +375295341017
+## mail: severinec7788@mail.ru, phone: +375295341017
 3rd year student (VMSiS) BSUIR FKSiS. During his studies at the university he worked on various course projects from complex system programs in C, C++ to games and network applications in Java.
 I always strive to learn something new in various areas of IT and am ready to work on interesting projects of varying degrees of complexity.
 
